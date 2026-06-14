@@ -50,3 +50,9 @@ This README was written by AI under the direction of the person who built this p
 Given more time, I would have added proper tests — both unit tests for the components and integration tests to verify the API behaves as expected. I also didn't get to finish the edit functionality before submission, and I would have put more effort into the design overall. The carousel works but the UI is pretty bare-bones compared to what I had in mind.
 
 Data is stored in memory on the server, so it resets every time the backend restarts.
+
+## Resources & References
+The infinite carousel was built using a CSS scrolling-animation technique.
+References used:
+- CSS-Tricks — "Infinite All-CSS Scrolling Slideshow": https://css-tricks.com/infinite-all-css-scrolling-slideshow/
+- MDN — Using CSS animations: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Animations/Using
